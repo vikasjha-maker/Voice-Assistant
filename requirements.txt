@@ -1,0 +1,26 @@
+
+RequirementsPython Modules:
+--------------------------------------------
+ Windows (win10 is best)
+ Python 3
+ Good internet connection
+ microphone 
+
+RequirementsPython Modules:
+--------------------------------------------
+ pyttsx3
+ datetime
+ speech_recognition 
+ wikipedia
+ webbrowser
+ os
+ random
+
+
+
+
+
+
+
+
+
